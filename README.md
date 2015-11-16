@@ -44,3 +44,7 @@ De la aplicación se encargará @javiergama8, el buscador de dominio lo realizar
 ###Licencia
 
 La licencia bajo la que publicamos esta aplicación es GNU GPL v3, esto da permiso a cualquier persona u organización para realizar modificaciones sobre la misma, además de poder realizar copias y distribuir tanto la versión original como la modificada, pudiendo cobrar o no por ello, pero siempre permaneciendo el mismo como software libre.
+
+###Tercer Hito
+
+En esta parte del proyecto, hemos elaborado toda la parte visual de la página web, donde yo me he encargado principalmente de toda la elaboración con el HTML, mientras que mis compañeros se han encargado uno de las hojas de estillo(CSS) y el otro del javaScript.
