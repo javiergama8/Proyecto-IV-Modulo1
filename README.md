@@ -48,3 +48,5 @@ La licencia bajo la que publicamos esta aplicación es GNU GPL v3, esto da permi
 ###Tercer Hito
 
 En esta parte del proyecto, hemos elaborado toda la parte visual de la página web, donde yo me he encargado principalmente de toda la elaboración con el HTML, mientras que mis compañeros se han encargado uno de las hojas de estillo(CSS) y el otro del javaScript.
+
+Una vez que hicimos la web, utilizamos Google Drive que proporciona servicio en la nube, y a través del cuál podemos mostrar nuestra web en funcionamiento.
